@@ -12,3 +12,13 @@ This project demonstrates the creation of an ERC20 token with basic minting, bur
 
 * Copy the Smart Contact content into the remix
 * Compile and Deploy 
+
+### Help
+For common problems or issues, check the following:
+
+Ensure you have the correct Solidity version specified in your hardhat.config.js file.
+Ensure your Ethereum client (like Ganache or Infura) runs and configures correctly.
+
+### Author
+Jose Roberto Kam
+
